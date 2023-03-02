@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karanparmar1
-- 👀 I’m interested in Frontend Devlopment
+- 👀 I’m a Frontend Devloper
 - 🌱 I’m currently learning FullStack development 
 - 📫 You can reach me via linkedin https://www.linkedin.com/in/karanparmar1/
 

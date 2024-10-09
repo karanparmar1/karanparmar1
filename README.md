@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karanparmar1
-- 👀 I’m a Frontend Devloper
-- 🌱 I’m currently learning FullStack development 
+- 👀 I’m a Fullstack Engineer
+- 🌱 I’m currently expanding my development skills as well as architectural skills
 - 📫 You can reach me via linkedin https://www.linkedin.com/in/karanparmar1/
 
 <!---
